@@ -1,3 +1,5 @@
+[\[English\]](READMEE.md) [\[Português\]](README.md)
+
 # Cloud Computing and Investment Models
 
 ## What is Cloud Computing?
