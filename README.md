@@ -1,3 +1,4 @@
+[\[English\]](READMEE.md) [\[Português\]](README.md)
 # Computação em Nuvem e Modelos de Investimento
 
 ## O que é Computação em Nuvem?
